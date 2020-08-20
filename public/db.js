@@ -49,4 +49,4 @@ function checkDatabase() {
     }
 }
 
-windown.addEventListener("online", checkDatabase)
+window.addEventListener("online", checkDatabase)
